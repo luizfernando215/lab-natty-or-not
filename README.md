@@ -5,7 +5,7 @@ Este projeto tem como objetivo desenvolver um Sistema para Agendamento de Consul
 
 ## 🤖 Tecnologias Utilizadas
 - Gemini: inteligência artificial generativa do Google;
-- Gamma: é uma plataforma baseada em IA que permite aos usuários criar slides de maneira rápida e eficiente;
+- Gamma: plataforma baseada em IA que permite aos usuários criar slides de maneira rápida e eficiente;
 
 ## 🧐 Processo de Criação
 Com o auxílio do Gemini, elaborei um documento de requisitos completo e detalhado para o sistema. Em seguida, utilizei o Gamma.app para transformar esse documento em uma apresentação visualmente atraente e informativa.
