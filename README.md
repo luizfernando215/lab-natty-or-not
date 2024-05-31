@@ -11,7 +11,7 @@ Gamma: é uma plataforma baseada em IA que permite aos usuários criar slides de
 Com o auxílio do Gemini, elaborei um documento de requisitos completo e detalhado para o sistema. Em seguida, utilizei o Gamma.app para transformar esse documento em uma apresentação visualmente atraente e informativa.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O documento e a apresentação gerada está visualmente atraente e informativa, facilitando a compreensão para o qual seria seu público-alvo.
 
 ## 💭 Reflexão (Opcional)
 Os modelos de IA Generativa têm o potencial de gerar textos e diálogos que simulam a linguagem humana de forma natural e envolvente. No entanto, é importante lembrar que esses modelos ainda estão em desenvolvimento e podem apresentar falhas ou gerar conteúdo incorreto ou ofensivo. Cabe aos desenvolvedores utilizar essas ferramentas de forma responsável e ética, buscando sempre aprimorar seus modelos e garantir que eles sejam usados para o bem da sociedade.
