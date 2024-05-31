@@ -4,9 +4,8 @@
 Este projeto tem como objetivo desenvolver um Sistema para Agendamento de Consultas Automatizado (SACA) utilizando inteligência artificial (IA) para otimizar o agendamento de consultas em clínicas médicas, hospitais e outros estabelecimentos de saúde. O SACA visa reduzir o tempo de espera dos pacientes e a carga de trabalho da equipe receptiva, além de fornecer uma experiência mais eficiente e agradável para todos os envolvidos.
 
 ## 🤖 Tecnologias Utilizadas
-Gemini: inteligência artificial generativa do Google;
-
-Gamma: é uma plataforma baseada em IA que permite aos usuários criar slides de maneira rápida e eficiente;
+- Gemini: inteligência artificial generativa do Google;
+- Gamma: é uma plataforma baseada em IA que permite aos usuários criar slides de maneira rápida e eficiente;
 
 ## 🧐 Processo de Criação
 Com o auxílio do Gemini, elaborei um documento de requisitos completo e detalhado para o sistema. Em seguida, utilizei o Gamma.app para transformar esse documento em uma apresentação visualmente atraente e informativa.
@@ -19,5 +18,5 @@ Os modelos de IA Generativa têm o potencial de gerar textos e diálogos que sim
 
 
 ## 🔗 Links
-[Download Apresentação SACA](https://github.com/user-attachments/files/15516356/Sistema-de-Agendamento-de-Consultas-Automatizado.pdf)
+- [Download Apresentação SACA](https://github.com/user-attachments/files/15516356/Sistema-de-Agendamento-de-Consultas-Automatizado.pdf)
 
